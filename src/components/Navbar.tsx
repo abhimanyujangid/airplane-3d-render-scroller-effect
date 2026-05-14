@@ -7,11 +7,6 @@ export function Navbar() {
   const navItems = [
     { name: 'Home', path: '/' },
     { name: 'About Us', path: '/about' },
-    { name: 'Device', path: '/' },
-    { name: 'Real Stories', path: '/' },
-    { name: 'Science', path: '/' },
-    { name: 'Plans', path: '/' },
-    { name: 'Reach Us', path: '/' }
   ];
 
   return (
